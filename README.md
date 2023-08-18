@@ -25,8 +25,8 @@ I'm Ramanjit Singh (you can call me Raman), a passionate student with dreams of 
 
 ## Let's Connect! 🤝
 
-- 📬 You can reach me at your@email.com.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+- 📬 You can reach me at ramanbainsedu214@gmail.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/).
 
 ## Fun Fact about Me 🎉
 
