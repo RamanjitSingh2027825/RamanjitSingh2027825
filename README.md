@@ -20,8 +20,12 @@ I'm Ramanjit Singh (you can call me Raman), a passionate student with dreams of 
 
 ## Projects and Contributions 🛠️
 
-- 🛩️ Developed a Python email client and worked on two other projects during hackathons.
+
+- 📧 **Email Client For Automated Notifications:** Created an email client for sending custom automated notifications. 🚀
+- 🧪 **ChronoGuard:** Developed a machine learning-based web app that predicts the likelihood of chronic diseases in patients based on their medical records. 🔍
+- 🎬 **Movie Recommendation System:** Built a movie recommendation system using collaborative filtering techniques for personalized suggestions. 🍿
 - 🔗 Excited to learn, explore, and contribute to open-source projects.
+
 
 ## Let's Connect! 🤝
 
