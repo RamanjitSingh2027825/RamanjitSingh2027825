@@ -15,8 +15,8 @@ I'm Ramanjit Singh (you can call me Raman), a passionate student with dreams of 
 
 ## Achievements and Involvements 🏆
 
-- 🏅 Participated in Robomania 2k22, GNA Hackathon, and the SMART Hackathon organized by Google Developer Group.
-- 🥈 Our team was among the top 15 out of 250 at GNA Hackathon, showcasing teamwork and problem-solving skills.
+- 🏅 Participated in Robomania 2k22, GNA Hackathon, and the SMART Hackathon organized by **Google Developer Group**.
+- 🥈 Our team was among the **top 15** out of 250 at GNA Hackathon, showcasing teamwork and problem-solving skills.
 
 ## Projects and Contributions 🛠️
 
@@ -29,7 +29,7 @@ I'm Ramanjit Singh (you can call me Raman), a passionate student with dreams of 
 
 ## Let's Connect! 🤝
 
-- 📬 You can reach me at ramanbainsedu214@gmail.com
+- 📬 You can reach me at [Gmail](ramanbainsedu214@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ramanbainsedu214/).
 
 ## Fun Fact about Me 🎉
